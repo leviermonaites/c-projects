@@ -1,3 +1,7 @@
+/*
+ * Exercise to differ string literals from character arrays.
+ */
+
 #include <stdio.h>
 
 int main() {
